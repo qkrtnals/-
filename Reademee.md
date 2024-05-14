@@ -70,7 +70,7 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |323233|	Toscolo 2015 Vernaccia di San Gimignano|	Toscolo|	White|	NaN	|Vernaccia, Italian White|	Vernaccia di San Gimignano, Tuscany, Italy	|12.5%	|$11|87	|Kerin O’Keefe|	Aromas of white spring flower, yellow pear and...|
 |323234|	Domaine G. Metz 2017 Pinot Blanc (Alsace)|	Domaine G. Metz|	White|	NaN	|Pinot Blanc|	Alsace, Alsace, France	|13%|	$20|	90|	Anne Krebiehl MW|	A tinge of earth clings to the ripe, almost ju...|
 
-
+![평점그래프](https://github.com/qkrtnals/-/assets/79901070/cdd3691e-03c1-42e0-8f29-b06114a7230e)
 
 
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
