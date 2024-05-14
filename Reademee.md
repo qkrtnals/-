@@ -46,14 +46,32 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 와인 이름, 와이너리 이름, 카테고리: 와인 종류(예: 레드, 화이트, 스파클링), 지정, 품종 : 포도의 종류, 
 아펠라시옹(Appellation): 와인이 생산되는 지역, 알코올 함량, 가격, 평가, 리뷰어 이름, 검토가 있다.
 
-wine | winery | category | designation | varietal | appellation | alcohol | price | rating | reviewer | review
---|--|--|--|--|--|--|--|--|--|
-와인명 | 생산지 | 종류 | 지역 | 품종 | 지역명 | 도수 | 가격 | 평점 | 리뷰어 | 리뷰
+|wine | winery | category | designation | varietal | appellation | alcohol | price | rating | reviewer | review |
+|--|--|--|--|--|--|--|--|--|--|--|
+|와인명 | 생산지 | 종류 | 지역 | 품종 | 지역명 | 도수 | 가격 | 평점 | 리뷰어 | 리뷰 |
+
 
 
 ### 2.2 추출한 데이터
-대량의 데이터에서 관심 영역을 추출한다. (5만 ~ 10만건) 최소 2만건
-화이트 와인
+화이트 와인 데이터는 95424건이며 평점(rating)은 80점부터 100점까지 구성되어있다.<br/>
+
+|-| wine |	winery |	category |	designation |	varietal |	appellation |	alcohol |	price |	rating |	reviewer |	review |
+|-|--|--|--|--|--|--|--|--|--|--|--|
+|4|	Tenuta San Francesco 2007 Tramonti White (Camp...|	Tenuta San Francesco|	White|	Tramonti|	White Blend|	Campania, Southern Italy, Italy|	13.5%|	$21|	85|	NaN|	This intriguing blend of Falanghina, Biancolel...|
+|10|	Merry Edwards 2011 Sauvignon Blanc (Russian Ri...|	Merry Edwards|	White|	NaN|	Sauvignon Blanc|	Russian River Valley, Sonoma, California, US|	14.1%|	$32|	88|	NaN|	Despite a chilly vintage, the winery successfu...|
+|15	|Jidvei 2015 Demisec Gewurztraminer (Jidvei)|	Jidvei|	White|	Demisec|	Gewürztraminer, Gewürztraminer|	Jidvei, Romania	|12.5%|	$10|	86|	Jeff Jenssen|	This semisweet wine has a flowery bouquet of j...|
+|20	|Winery| of Good Hope 2011 Bush Vine Chenin Blan...|	Winery of Good Hope|	White|	Bush Vine|	Chenin Blanc|	Stellenbosch, South Africa|	13%|	$12|	86|	Lauren Buzzeo	|This wine shows good balance between the livel...|
+|26	|Sallier de la Tour 2017 Inzolia (Sicilia)|	Sallier de la Tour|	White|	NaN	|Inzolia, Italian White|	Sicilia, Sicily & Sardinia, Italy|	12%	|$13|	87|	Kerin O’Keefe|	This 100% Inzolia has aromas of Bosc pear, whi...|
+|...|	...|	...|	...|	...|	...|	...|	...|	...|	...|	...|	...|
+|323219|	Enrico Serafino 2020 del Comune di Gavi Grifo ...|	Enrico Serafino|	White|	del Comune di Gavi Grifo del Quartaro|	Cortese, Italian White|	Gavi, Piedmont, Italy|	12.5%	|$21|	91|	Kerin O’Keefe|	This savory white opens with enticing scents o...|
+|323223|	Grgich Hills 2001 Private Reserve Style Fumé B...|	Grgich Hills|	White	|Private Reserve Style|	Fumé Blanc, Sauvignon Blanc|	Napa Valley, Napa, California, US	|NaN|	$18	|85|	NaN	|Aggressively grassy and tart, with strong flav...|
+|323231|	Bott Frères 2017 Tradition Gewurztraminer (Als...|	Bott Frères|	White|	Tradition|	Gewürztraminer, Gewürztraminer|	Alsace, Alsace, France|	13%|	$50|	88|	Anne Krebiehl MW|	Rich honeyed notes of baked apple and rose abo...|
+|323233|	Toscolo 2015 Vernaccia di San Gimignano|	Toscolo|	White|	NaN	|Vernaccia, Italian White|	Vernaccia di San Gimignano, Tuscany, Italy	|12.5%	|$11|87	|Kerin O’Keefe|	Aromas of white spring flower, yellow pear and...|
+|323234|	Domaine G. Metz 2017 Pinot Blanc (Alsace)|	Domaine G. Metz|	White|	NaN	|Pinot Blanc|	Alsace, Alsace, France	|13%|	$20|	90|	Anne Krebiehl MW|	A tinge of earth clings to the ripe, almost ju...|
+
+
+
+
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 1~5점 척도인 경우에는 분포 리뷰 문장의 길이 <br>
 연도별, 장소별 등등 <br>
