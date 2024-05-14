@@ -8,7 +8,8 @@ badge icon 참고 사이트<br>
 <!--# 개요 A4용지로 1장 정도 (그림포함)-->
 
 ## 1. 개요
-![wn.jpg](..%2F..%2FUsers%2Fuser%2FDownloads%2Fwn.jpg)
+![wn](https://github.com/qkrtnals/-/assets/79901070/8c1e29f2-45b0-482b-bfa4-2c82d0d9c7bd)
+
 ### 1.1 문제정의
 IWSR(International Wine & Spirits Trend)은 런던 소재 시장 분석 회사로 와인 및 스피릿 시장 연구를 위해 300명의 애널리스트들이 
 전 세계 수입상들을 만나 인터뷰를 통해 얻은 조사 결과다. 
@@ -38,7 +39,7 @@ http://www.foodicon.co.kr 기사에 따르면
 
 ## 2. 데이터
 ### 2.1 원시 데이터
-데이터에 대한 소개 (링크)
+데이터에 대한 소개
 https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 총 데이터 건수는 총 323237건이며
