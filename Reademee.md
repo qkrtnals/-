@@ -46,24 +46,11 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 와인 이름, 와이너리 이름, 카테고리: 와인 종류(예: 레드, 화이트, 스파클링), 지정, 품종 : 포도의 종류, 
 아펠라시옹(Appellation): 와인이 생산되는 지역, 알코올 함량, 가격, 평가, 리뷰어 이름, 검토가 있다.
 
-```python
-data = {
-'wine' : ['와인명'],
-'winery' : ['생산지'],
-'category' : ['종류'],
-'designation': ['지역'],
-'varietal' : ['품종'],
-'appellation': ['지역명'] ,
-'alcohol' : ['도수'],
-'price' : ['가격'],
-'rating' : ['평점'],
-'reviewer': ['리뷰어'],
-'review' : ['리뷰']
-}
+wine | winery | category | designation | varietal | appellation | alcohol | price | rating | reviewer | review
+--|--|--|--|--|--|--|--|--|--|
+와인명 | 생산지 | 종류 | 지역 | 품종 | 지역명 | 도수 | 가격 | 평점 | 리뷰어 | 리뷰
 
-df = pd.DataFrame(data)
-df
-```
+
 ### 2.2 추출한 데이터
 대량의 데이터에서 관심 영역을 추출한다. (5만 ~ 10만건) 최소 2만건
 화이트 와인
