@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 
 ### 2.2 추출한 데이터
-화이트 와인 데이터는 95424건이며 평점(rating)은 80점부터 100점까지 구성되어있다.<br/>
+화이트 와인 데이터는 95424건이다.<br/>
 
 |-| wine |	winery |	category |	designation |	varietal |	appellation |	alcohol |	price |	rating |	reviewer |	review |
 |-|--|--|--|--|--|--|--|--|--|--|--|
@@ -70,6 +70,8 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |323233|	Toscolo 2015 Vernaccia di San Gimignano|	Toscolo|	White|	NaN	|Vernaccia, Italian White|	Vernaccia di San Gimignano, Tuscany, Italy	|12.5%	|$11|87	|Kerin O’Keefe|	Aromas of white spring flower, yellow pear and...|
 |323234|	Domaine G. Metz 2017 Pinot Blanc (Alsace)|	Domaine G. Metz|	White|	NaN	|Pinot Blanc|	Alsace, Alsace, France	|13%|	$20|	90|	Anne Krebiehl MW|	A tinge of earth clings to the ripe, almost ju...|
 
+평점(rating)은 80점부터 100점까지 구성되어있다.<br/>
+![평점차트코드](https://github.com/qkrtnals/-/assets/79901070/729c0e85-f0e2-4b0a-87fc-61f8b7b882c1) <br/>
 ![평점그래프](https://github.com/qkrtnals/-/assets/79901070/cdd3691e-03c1-42e0-8f29-b06114a7230e)
 
 
