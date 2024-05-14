@@ -70,14 +70,18 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |323233|	Toscolo 2015 Vernaccia di San Gimignano|	Toscolo|	White|	NaN	|Vernaccia, Italian White|	Vernaccia di San Gimignano, Tuscany, Italy	|12.5%	|$11|87	|Kerin O’Keefe|	Aromas of white spring flower, yellow pear and...|
 |323234|	Domaine G. Metz 2017 Pinot Blanc (Alsace)|	Domaine G. Metz|	White|	NaN	|Pinot Blanc|	Alsace, Alsace, France	|13%|	$20|	90|	Anne Krebiehl MW|	A tinge of earth clings to the ripe, almost ju...|
 
+
 평점(rating)은 80점부터 100점까지 구성되어있다.<br/>
 ![평점차트코드](https://github.com/qkrtnals/-/assets/79901070/729c0e85-f0e2-4b0a-87fc-61f8b7b882c1) <br/>
 ![평점그래프](https://github.com/qkrtnals/-/assets/79901070/cdd3691e-03c1-42e0-8f29-b06114a7230e)
 
 
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
-1~5점 척도인 경우에는 분포 리뷰 문장의 길이 <br>
+화이트 와인 중 평점이 높은 상위 5개의 리뷰 보기
+
+
 연도별, 장소별 등등 <br>
+
 데이터의 부가정보를 바탕으로 데이터를 탐색 ( pandas, matplotlib)
 
 # 여기까지가 중간 과제 점검
