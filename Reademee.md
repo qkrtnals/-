@@ -77,7 +77,16 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
-화이트 와인 중 평점이 높은 상위 5개의 리뷰 보기
+화이트 와인 중 평점이 높은 상위 5개의 리뷰 보기 <br/>
+![상위5개리뷰](https://github.com/qkrtnals/-/assets/79901070/94e66106-1c73-495f-9bed-9fee7c136cd0)
+
+|wine|review|
+|--|--|
+|Ramey 2018 Rochioli Vineyard Chardonnay (Russian River Valley)| This wine is a testament to an outstanding site in the hands of an outstanding producer. It is a celebration of fresh Meyer lemon and Gravenstein apple woven against an elegant structure and quenching acidity|
+|Château Haut-Brion 2014 Pessac-Léognan | Full of ripe fruit, opulent and concentrated, this is a fabulous and impressive wine. It has a beautiful line of acidity balanced with ripe fruits. The wood aging is subtle, just a hint of smokiness and toast. This is one of those wines, from a great white wine vintage, that will age many years. Drink from 2024.|
+|Ramey 2018 Hyde Vineyard Chardonnay (Carneros) | This is a stunner from blocks planted in 1997 and 1999. Beautiful aromas of toasted hazelnut and stone lead to a palate that shows undeniable minerality paired with lasting acidity. It shows freshness and energy throughout. Drink 2026–2032. |
+|Failla 2010 Estate Vineyard Chardonnay (Sonoma Coast) | Shows classic, full-throttle notes of tropical and citrus fruits, pears and sweet green apples, combined with strong minerality and complex layers of buttered toast, honey and creamy lees. The description alone hardly does justice to the wine's beauty. The acidity is perfect, the oak deftly applied, the finish long and completely satisfying. Winemaker Ehren Jordan suggests pairing it with simple fare like roast chicken and salted fingerling potatoes.|
+|Ramey 2017 Rochioli Vineyard Chardonnay (Russian River Valley) | Only the third vintage by this producer from a spectacular site, this elegant wine is brimming in tension and length. Delicate layers of Meyer lemon, Gravenstein apple and pear show an abundance on the palate, seasoned in salty oak, nutmeg and a hint of cardamom.|
 
 
 연도별, 장소별 등등 <br>
