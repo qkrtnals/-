@@ -72,8 +72,8 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 
 평점(rating)은 80점부터 100점까지 구성되어있다.<br/>
-![평점차트코드](https://github.com/qkrtnals/-/assets/79901070/729c0e85-f0e2-4b0a-87fc-61f8b7b882c1) <br/>
-![평점그래프](https://github.com/qkrtnals/-/assets/79901070/cdd3691e-03c1-42e0-8f29-b06114a7230e)
+![rt1](https://github.com/qkrtnals/Wine_Review/assets/79901070/bfb3dc21-79d9-43a8-bc54-54a4d99505e4) <br/>
+![rt2](https://github.com/qkrtnals/Wine_Review/assets/79901070/e07189a6-c85a-40ad-bda2-4cce82b3f3ad)
 
 
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
