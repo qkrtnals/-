@@ -88,6 +88,12 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |Failla 2010 Estate Vineyard Chardonnay (Sonoma Coast) | Shows classic, full-throttle notes of tropical and citrus fruits, pears and sweet green apples, combined with strong minerality and complex layers of buttered toast, honey and creamy lees. The description alone hardly does justice to the wine's beauty. The acidity is perfect, the oak deftly applied, the finish long and completely satisfying. Winemaker Ehren Jordan suggests pairing it with simple fare like roast chicken and salted fingerling potatoes.|
 |Ramey 2017 Rochioli Vineyard Chardonnay (Russian River Valley) | Only the third vintage by this producer from a spectacular site, this elegant wine is brimming in tension and length. Delicate layers of Meyer lemon, Gravenstein apple and pear show an abundance on the palate, seasoned in salty oak, nutmeg and a hint of cardamom.|
 
+화이트 와인 중 평점이 85점 이하인 리뷰와 92점 이상인 리뷰를 랜덤으로 10개씩 읽어 본 결과 ...
+
+
+
+
+
 
 연도별, 장소별 등등 <br>
 
