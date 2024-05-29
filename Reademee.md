@@ -103,6 +103,8 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 그래프를 그려보면 전체 9만건의 데이터에서 긍부정으로 분류된 데이터의 수는 26756건이며 
 여기서 긍정은 8435건, 부정은 18321건이다.
+![스크린샷 2024-05-29 184846](https://github.com/qkrtnals/Wine_Review/assets/79901070/6222861a-29cc-4b9e-b71b-c2bcf418660b)
+
 
 
 ,
