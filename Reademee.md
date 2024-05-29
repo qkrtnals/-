@@ -71,12 +71,12 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |323234|	Domaine G. Metz 2017 Pinot Blanc (Alsace)|	Domaine G. Metz|	White|	NaN	|Pinot Blanc|	Alsace, Alsace, France	|13%|	$20|	90|	Anne Krebiehl MW|	A tinge of earth clings to the ripe, almost ju...|
 
 
+### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 평점(rating)은 80점부터 100점까지 구성되어있다.<br/>
 ![rt1](https://github.com/qkrtnals/Wine_Review/assets/79901070/bfb3dc21-79d9-43a8-bc54-54a4d99505e4) <br/>
 ![rt2](https://github.com/qkrtnals/Wine_Review/assets/79901070/e07189a6-c85a-40ad-bda2-4cce82b3f3ad)
 
 
-### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 화이트 와인 중 평점이 높은 상위 5개의 리뷰 보기 <br/>
 ![상위5개리뷰](https://github.com/qkrtnals/-/assets/79901070/94e66106-1c73-495f-9bed-9fee7c136cd0)
 
@@ -88,20 +88,24 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |Failla 2010 Estate Vineyard Chardonnay (Sonoma Coast) | Shows classic, full-throttle notes of tropical and citrus fruits, pears and sweet green apples, combined with strong minerality and complex layers of buttered toast, honey and creamy lees. The description alone hardly does justice to the wine's beauty. The acidity is perfect, the oak deftly applied, the finish long and completely satisfying. Winemaker Ehren Jordan suggests pairing it with simple fare like roast chicken and salted fingerling potatoes.|
 |Ramey 2017 Rochioli Vineyard Chardonnay (Russian River Valley) | Only the third vintage by this producer from a spectacular site, this elegant wine is brimming in tension and length. Delicate layers of Meyer lemon, Gravenstein apple and pear show an abundance on the palate, seasoned in salty oak, nutmeg and a hint of cardamom.|
 
-화이트 와인 중 평점이 85점 이하인 리뷰와 92점 이상인 리뷰를 랜덤으로 10개씩 읽어 본 결과 ...
-
-
-
-
 
 
 연도별, 장소별 등등 <br>
 
 데이터의 부가정보를 바탕으로 데이터를 탐색 ( pandas, matplotlib)
 
-# 여기까지가 중간 과제 점검
-
 ## 3. 학습 데이터 구축
+# 3.1 긍부정 분류
+평점이 80점부터 100점까지 분포하는데 92.5점 이상은 대부분 긍정적인 표현이 많은 반면  85점 이하의 리뷰는 긍정적인 표현이 없고, 부정적표현이 두드러지지 않고 무미건조한 설명으로 구성된다.
+
+92.5점 이상을 긍정으로 분류하고
+85점 이하를 부정으로 분류하겠다.
+
+그래프를 그려보면 전체 9만건의 데이터에서 긍부정으로 분류된 데이터의 수는 26756건이며 
+여기서 긍정은 8435건, 부정은 18321건이다.
+
+
+,
 ## 4. MobileBERT 학습 결과
 ## 5. 
 
