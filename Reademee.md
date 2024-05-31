@@ -108,19 +108,15 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 
 92.5점 이상을 1, 85점 이하를 0으로 분류한 '긍부정' 칼럼을 추가해보았다.
-|-| wine |	winery |	category |	designation |	varietal |	appellation |	alcohol |	price |	rating |	reviewer |	review | 긍부정|
-|-|--|--|--|--|--|--|--|--|--|--|--|--|
-|4|	Tenuta San Francesco 2007 Tramonti White (Campania)	|Tenuta San Francesco	|White	|Tramonti|	White Blend|	Campania, Southern Italy, Italy|	13.5%|	$21	|85	|NaN|	This intriguing blend of Falanghina, Biancolella and Pepella (three relatively unknown indigenous grapes) has a candy- or soda-like quality that recalls butterscotch and caramel. However, those notes are balanced by an elegant mineral tone and the wine has good dimension on the close.|	0|
-|46|	Bellora 2016 Soave	|Bellora|	White|	NaN	|Garganega, Italian White|	Soave, Veneto, Italy	|12.5%	|NaN|	85	|Kerin O’Keefe|	Fruity aromas of tropical fruit and white peach carry over to the simple palate along with the barest hint of bitter almond. Fresh acidity gives it a bright finish.|0|
-|60|	Roth 2011 Sauvignon Blanc (Alexander Valley)|	Roth|	White|	NaN|	Sauvignon Blanc|	Alexander Valley, Sonoma, California, US|	13.8%|	$17|	84|	NaN|	Off-dry to sweetish, this has honey, orange, apricot, lime and vanilla flavors. It shows Sauvignon's clean, brisk acidity, but that taste of sweetness limits its appeal.|	0|
-|71|	Falling Star 2002 Chardonnay (Mendoza)|	Falling Star|	White|	NaN	|Chardonnay|	Mendoza, Mendoza Province, Argentina|	NaN| 	$5|	84	|Michael Schachner| Aromas of gumdrop, lemon juice and anise create a stylish impression, however, the wine turns more zesty and tangy in the mouth. Flavors of grapefruit, lemon and apple are open yet ultimately rather simple.|0|
-|76|	Oriel 2004 Ortolan Falkenstein Grüner Veltliner (Weinviertel)|	Oriel|	White|	Ortolan Falkenstein	|Grüner Veltliner|	Weinviertel, Austria|	12.5%	|$20|	84	|Joe Czerwinski	|Although this wine starts well, with scents of lime, stone fruit, gunmetal and mineral oil, it never really gets going on the palate, where the understated flavors of peach and pear end on a citrusy note. Imported by USA Wine Imports.|	0|
-|...|	...	|...	|...	|...|...	|...|	...|	...|	...|	...	|...	|...|
-|323081|	Three Sticks 2018 One Sky Chardonnay (Sonoma Mountain)|	Three Sticks	|White|	One Sky	|Chardonnay|Sonoma Mountain, Sonoma, California, US|	14.2%|	$55	|94|	Virginie Boone|	From an estate vineyard planted at 1,400-feet in elevation, where cool pockets hug the mountain, this white is bright, grippy and textured. Fennel, flint and lemon peel flavors wrap around a tense core of stone fruit and oak, with shots of acidity that brighten and lengthen the palate.|	1|
-|323083|	Dutton Estate 2007 Dutton Ranch Dutton Palms Vineyard Chardonnay (Russian River Valley)|	Dutton Estate|	White|	Dutton Ranch Dutton Palms Vineyard	|Chardonna|	Russian River Valley, Sonoma, California, US|	NaN	|$48|	94	|NaN	|Tremendously rich and oaky, with butterscotch-inspired pineapple, golden mango pear and Meyer lemon flavors that are as rich as crème brûlée. Dramatic now, if a bit overpowering. Calls for carefully crafted foods of the richest level, like lobster.|	1|
-|323102|	Domaine Laporte 2016 Le Rochoy (Sancerre)|	Domaine Laporte|	White|	Le Rochoy|	Sauvignon Blanc|	Sancerre, Loire Valley, France	|13%|	$30	|94	|Roger Voss	From a sloping flinty vineyard, this is an impressive wine. It is powered by its tight tense texture to give a concentrated essence of Sauvignon Blanc. The wine, with its green and citrus fruits, is tangy, steely and needing to age. Drink from 2019.|	1|
-|323153|	William Fèvre 2007 Bougros Grand Cru (Chablis)|	William Fèvre|	White	|Bougros Grand Cru|	Chardonnay	|Chablis, Burgundy, France|	13%	|$75|	94|	Roger Voss|	A big, burly Chablis, beautifully ripe, exhibiting powerful fruits overlaying a core of citrus and apple skin texture. The wine is open, rich, with an enticing juicy character, finished with bright, ripe acidity.	|1|
-|323196|	Ramey 2017 Chardonnay (Russian River Valley)	|Ramey|	White	|NaN	|Chardonnay|	Russian River Valley, Sonoma, California, US	|14.5%	|$42	|95	|Virginie Boone|	This is such a fine appellation wine, punching well above its price point in quality and memorability, sourced from such stellar sites as Westside Farms, Rochioli Allen and others. Stone, melon and Meyer lemon highlight a fresh core of acidity that's both steely and focused, with floral jasmine nipping around the edges.|	1|
+|-| wine |	review | 긍부정|
+|-|--|--|--|
+|4|	Tenuta San Francesco 2007 Tramonti White (Campania)|	This intriguing blend of Falanghina, Biancolella and Pepella (three relatively unknown indigenous grapes) has a candy- or soda-like quality that recalls butterscotch ...|	0|
+|46|	Bellora 2016 Soave	|Fruity aromas of tropical fruit and white peach carry over to the simple palate along with the barest hint of bit...|0|
+|60|	Roth 2011 Sauvignon Blanc (Alexander Valley)|	Off-dry to sweetish, this has honey, orange, apricot, lime and vanilla flavors. It shows Sauvignon's clean, brisk aci...|	0|
+|...|	...	|...	|...	|
+|323102|	Domaine Laporte 2016 Le Rochoy (Sancerre)|Roger Voss	From a sloping flinty vineyard, this is an impressive wine. It is powered by its tight tense texture to give...|	1|
+|323153|	William Fèvre 2007 Bougros Grand Cru (Chablis)|A big, burly Chablis, beautifully ripe, exhibiting powerful fruits overlaying a core of citrus and apple skin texture...|1|
+|323196|	Ramey 2017 Chardonnay (Russian River Valley)|	This is such a fine appellation wine, punching well above its price point in quality and memorability, sourced from such stellar sites as Westside Farms...|	1|
 
 
 
