@@ -107,8 +107,8 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 ![22](https://github.com/qkrtnals/Wine_Review/assets/79901070/6b14a8d7-2c9e-4d21-8829-d747e8fd78d3)
 
 
-92.5점 이상을 1, 85점 이하를 0으로 분류한 '긍부정' 칼럼을 추가해보았다.
-|-| wine |	review | 긍부정|
+92.5점 이상을 1, 85점 이하를 0으로 분류한 'sentiment(긍부정)' 칼럼을 추가해보았다.
+|-| wine |	review | sentiment|
 |-|--|--|--|
 |4|	Tenuta San Francesco 2007 Tramonti White (Campania)|	This intriguing blend of Falanghina, Biancolella and Pepella (three relatively unknown indigenous grapes) has a candy- or soda-like quality that recalls butterscotch ...|	0|
 |46|	Bellora 2016 Soave	|Fruity aromas of tropical fruit and white peach carry over to the simple palate along with the barest hint of bit...|0|
