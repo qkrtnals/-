@@ -110,7 +110,7 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 92.5점 이상을 1, 85점 이하를 0으로 분류한 'sentiment(긍부정)' 칼럼을 추가해보았다.
 |-| wine |	review | sentiment|
 |-|--|--|--|
-|4|	Tenuta San Francesco 2007 Tramonti White (Campania)|	This intriguing blend of Falanghina, Biancolella and Pepella (three relatively unknown indigenous grapes) has a candy- or soda-like quality that recalls butterscotch ...|	0|
+|4|	Tenuta San Francesco 2007 Tramonti White (Campania)|	This intriguing blend of Falanghina, Biancolella and Pepella (three relatively unknown indigenous grapes) has a candy...|	0|
 |46|	Bellora 2016 Soave	|Fruity aromas of tropical fruit and white peach carry over to the simple palate along with the barest hint of bit...|0|
 |60|	Roth 2011 Sauvignon Blanc (Alexander Valley)|	Off-dry to sweetish, this has honey, orange, apricot, lime and vanilla flavors. It shows Sauvignon's clean, brisk aci...|	0|
 |...|	...	|...	|...	|
