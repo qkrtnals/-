@@ -116,7 +116,7 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |...|	...	|...	|...	|
 |323102|	Domaine Laporte 2016 Le Rochoy (Sancerre)|Roger Voss	From a sloping flinty vineyard, this is an impressive wine. It is powered by its tight tense texture to give...|	1|
 |323153|	William Fèvre 2007 Bougros Grand Cru (Chablis)|A big, burly Chablis, beautifully ripe, exhibiting powerful fruits overlaying a core of citrus and apple skin texture...|1|
-|323196|	Ramey 2017 Chardonnay (Russian River Valley)|	This is such a fine appellation wine, punching well above its price point in quality and memorability, sourced from such stellar sites as Westside Farms...|	1|
+|323196|	Ramey 2017 Chardonnay (Russian River Valley)|	This is such a fine appellation wine, punching well above its price point in quality and memorability, sourced from such...|	1|
 
 
 
