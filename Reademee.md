@@ -124,8 +124,8 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 ## 4. MobileBERT 학습 결과
 |step| 0 |	1 |2|3|
 |-|--|--|--|--|
-|loss|	44694.43593116447|	|	| |
-|accuracy|	0.9572368421052632	| | | |
+|loss|	44694.4359|	141.7699|	0.4623| |
+|accuracy|	0.9572| 0.9704| 0.9605| |
 
 ## 5. 
 
