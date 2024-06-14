@@ -88,14 +88,16 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |Failla 2010 Estate Vineyard Chardonnay (Sonoma Coast) | Shows classic, full-throttle notes of tropical and citrus fruits, pears and sweet green apples, combined with strong minerality and complex layers of buttered toast, honey and creamy lees. The description alone hardly does justice to the wine's beauty. The acidity is perfect, the oak deftly applied, the finish long and completely satisfying. Winemaker Ehren Jordan suggests pairing it with simple fare like roast chicken and salted fingerling potatoes.|
 |Ramey 2017 Rochioli Vineyard Chardonnay (Russian River Valley) | Only the third vintage by this producer from a spectacular site, this elegant wine is brimming in tension and length. Delicate layers of Meyer lemon, Gravenstein apple and pear show an abundance on the palate, seasoned in salty oak, nutmeg and a hint of cardamom.|
 
+(데이터 살펴보기
+화이트 와인 종류
+
+알콜 도수의 분포 그래프
 
 
-연도별, 장소별 등등 <br>
-
-데이터의 부가정보를 바탕으로 데이터를 탐색 ( pandas, matplotlib)
+연도별, 장소별 등등 <br>)
 
 ## 3. 학습 데이터 구축
-# 3.1 긍부정 분류
+### 3.1 긍부정 분류
 평점이 80점부터 100점까지 분포하는데 92.5점 이상은 대부분 긍정적인 표현이 많은 반면  85점 이하의 리뷰는 긍정적인 표현이 없고, 부정적표현이 두드러지지 않고 무미건조한 설명으로 구성된다.
 
 92.5점 이상을 긍정으로 분류하고
