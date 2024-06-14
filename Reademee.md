@@ -124,6 +124,7 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 
 ## 4. MobileBERT 학습 결과
+![결과](https://github.com/qkrtnals/Wine_Review/assets/79901070/053ca3ec-1cb7-4881-9a6f-435dcae3b584)
 
 
 |step| 0 |	1 |2|3|
