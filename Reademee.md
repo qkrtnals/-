@@ -89,12 +89,15 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |Ramey 2017 Rochioli Vineyard Chardonnay (Russian River Valley) | Only the third vintage by this producer from a spectacular site, this elegant wine is brimming in tension and length. Delicate layers of Meyer lemon, Gravenstein apple and pear show an abundance on the palate, seasoned in salty oak, nutmeg and a hint of cardamom.|
 
 (데이터 살펴보기
-화이트 와인 종류
 
 알콜 도수의 분포 그래프
 
 
 연도별, 장소별 등등 <br>)
+화이트 와인의 종류 보기 <br/>
+
+
+
 
 ## 3. 학습 데이터 구축
 ### 3.1 긍부정 분류
