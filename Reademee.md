@@ -88,15 +88,10 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 |Failla 2010 Estate Vineyard Chardonnay (Sonoma Coast) | Shows classic, full-throttle notes of tropical and citrus fruits, pears and sweet green apples, combined with strong minerality and complex layers of buttered toast, honey and creamy lees. The description alone hardly does justice to the wine's beauty. The acidity is perfect, the oak deftly applied, the finish long and completely satisfying. Winemaker Ehren Jordan suggests pairing it with simple fare like roast chicken and salted fingerling potatoes.|
 |Ramey 2017 Rochioli Vineyard Chardonnay (Russian River Valley) | Only the third vintage by this producer from a spectacular site, this elegant wine is brimming in tension and length. Delicate layers of Meyer lemon, Gravenstein apple and pear show an abundance on the palate, seasoned in salty oak, nutmeg and a hint of cardamom.|
 
-(데이터 살펴보기
+<br/>
 
-알콜 도수의 분포 그래프
-
-
-연도별, 장소별 등등 <br>)
 화이트 와인의 종류 보기 <br/>
 ![ct](https://github.com/qkrtnals/Wine_Review/assets/79901070/22be0f4c-47d3-4be3-bb7b-a890811b7dd8)
-
 |wine|
 |--|
 |'Tenuta San Francesco 2007 Tramonti White (Campania)'|
@@ -105,8 +100,24 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
  'Bott Frères 2017 Tradition Gewurztraminer (Alsace)'|
  'Toscolo 2015  Vernaccia di San Gimignano'|
  'Domaine G. Metz 2017 Pinot Blanc (Alsace)'|
+ 
+<br/> 
 
-
+알코올 도수별 와인 개수 보기<br/>
+![alcohol](https://github.com/qkrtnals/Wine_Review/assets/79901070/4d9a89e5-f8bc-4948-a386-2a62dc2ebf11)
+|alcohol|count|
+|--|--|
+|0.5%|        1|
+|1.2%  |      1|
+|1.5%   |     2|
+|10%    |   411|
+|10.07%  |    1|
+|  ...  |  ... |
+|9.9%  |      6|
+|90%    |     3|
+|91%     |    1|
+|92%     |    1|
+|94%     |    1|
 
 
 ## 3. 학습 데이터 구축
