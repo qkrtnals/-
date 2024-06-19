@@ -95,6 +95,16 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 연도별, 장소별 등등 <br>)
 화이트 와인의 종류 보기 <br/>
+![ct](https://github.com/qkrtnals/Wine_Review/assets/79901070/22be0f4c-47d3-4be3-bb7b-a890811b7dd8)
+
+|wine|
+|--|
+|'Tenuta San Francesco 2007 Tramonti White (Campania)'|
+ 'Merry Edwards 2011 Sauvignon Blanc (Russian River Valley)'|
+ 'Jidvei 2015 Demisec Gewurztraminer (Jidvei)'| ...|
+ 'Bott Frères 2017 Tradition Gewurztraminer (Alsace)'|
+ 'Toscolo 2015  Vernaccia di San Gimignano'|
+ 'Domaine G. Metz 2017 Pinot Blanc (Alsace)'|
 
 
 
