@@ -138,7 +138,8 @@ https://www.kaggle.com/datasets/samuelmcguire/wine-reviews-data
 
 ## 4. MobileBERT 학습 결과
 ![결과](https://github.com/qkrtnals/Wine_Review/assets/79901070/053ca3ec-1cb7-4881-9a6f-435dcae3b584)
-
+![accuracy](https://github.com/qkrtnals/Wine_Review/assets/79901070/c1c9fbd3-c6fd-495d-a9a3-f434fdf2a6e9)
+![loss](https://github.com/qkrtnals/Wine_Review/assets/79901070/41c9cff2-b141-434e-845e-fb24c490c18b)
 
 |step| 0 |	1 |2|3|
 |-|--|--|--|--|
